@@ -1,7 +1,7 @@
 # city_portfolio.github.io
-## Portfolio ##
+## Portfolio
 
-### Hello, I'm Apeksha A Dambal 👋
+### Hello, I'm Apeksha A Damabl 👋
 
 I am passionate about technology and problem-solving. Here's a glimpse of my work:
 
@@ -15,24 +15,24 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 - Web Development (React.js, Node.js)
 
 ## 🌐 Find Me Online
-- [GitHub](https://github.com/your-github-username)
-- [LinkedIn](https://linkedin.com/in/your-linkedin-profile)
+- [GitHub](https://github.com/ApekshaDambal)
+- [LinkedIn](https://linkedin.com/in/Apeksha_A_Dambal)
 
 ## Portfolio Topic
 
 <dl>
-<dt>Course Name</dt>
+<dt>DAA</dt>
 <dd>Algorithmic Problem Solving</dd>
 <dt>Course Code</dt>
 <dd>Course Code Placeholder</dd>
 <dt>Name</dt>
-<dd>Your Name</dd>
+<dd>Apeksha</dd>
 <dt>SRN</dt>
-<dd>Your SRN</dd>
+<dd>01fe23bcs241</dd>
 <dt>Course Instructor</dt>
-<dd>Instructor Name Placeholder</dd>
+<dd>Prakash Hegde</dd>
 <dt>University</dt>
-<dd>Your University Name</dd>
+<dd>KLETU</dd>
 <dt>Portfolio Topic/Domain</dt>
 <dd>Google</dd>
 </dl>
