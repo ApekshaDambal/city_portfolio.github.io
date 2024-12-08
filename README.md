@@ -1,7 +1,7 @@
 # city_portfolio.github.io
 ## Portfolio
 
-### Hello, I'm Apeksha A Damabl 👋
+### Hello, I'm Apeksha A Dambal 👋
 
 I am passionate about technology and problem-solving. Here's a glimpse of my work:
 
